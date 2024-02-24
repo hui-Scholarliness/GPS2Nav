@@ -1,2 +1,2 @@
 # GPS2Nav
-使用双天线GPS和mpc实现定位和路径跟踪
+目标：使用双天线GPS和mpc在simulink+ros和纯ros两种环境配置下实现对于目标路径的追踪
